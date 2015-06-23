@@ -1,0 +1,16 @@
+{
+    "name": "lotto-php-backend",
+    "description": "PHP rest api for lotto",
+    "require": {
+        "jmathai/epiphany": "dev-master",
+        "slim/pdo": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pai Peng",
+            "email": "pai@paipeng.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
